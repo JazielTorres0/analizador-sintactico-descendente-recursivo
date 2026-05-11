@@ -235,8 +235,4 @@ El proyecto se enfoca únicamente en el análisis sintáctico.
 - Generación de código ensamblador
 
 
----
-
-# Licencia
-
-Este proyecto es de uso académico y educativo.
+-
