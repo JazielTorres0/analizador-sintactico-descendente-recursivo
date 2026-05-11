@@ -1,0 +1,9 @@
+begin
+entero x, y;
+x := 5;
+y := 10;
+if (x <= y) then
+	x := x*2;
+else
+	y := y*2;
+end end
