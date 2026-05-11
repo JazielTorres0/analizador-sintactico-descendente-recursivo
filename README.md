@@ -234,5 +234,3 @@ El proyecto se enfoca únicamente en el análisis sintáctico.
 - Generación de código intermedio
 - Generación de código ensamblador
 
-
--
